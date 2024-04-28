@@ -1,11 +1,24 @@
-###HI
+# 👋 Hello, I'm Marília
 
-🙋🏻‍♀️ I currently work as a Customer Success Manager at a company that offers solutions for the real estate market. 
-I'm passionate about creating amazing experiences for customers and ensuring their success on their technology journeys.
+ Data Scientist | Florianópolis, Brazil
 
-💡 I am developing in the area of ​​Data Science, exploring different tools and improving my skills through courses and practical projects. 
-I am dedicated to mastering the nuances of this area of ​​activity, to contribute significantly to data analysis and solutions.
+Welcome to my profile! I'm passionate about data analysis and I'm on a continuous journey to push the limits of technology.
 
- 👩🏻‍💻 This space on GitHub reflects my journey of learning and growth. Here, I share projects, learnings and insights I gained along the way.
+## Summary 
 
-📈 Excited to connect with other tech enthusiasts, collaborate on interesting projects, and continue learning in this vast digital universe.
+- Passionate data scientist with expertise in Python
+- Expertise in statistical analysis, data visualization, and predictive modeling.
+- Strong understanding of data science architecture, algorithm design, and database management.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Let's Connect 🌎
+Let's turn our ideas into reality through strategic coding and unwavering dedication. Together, we can make a lasting impact in the world of technology.
+
+  <a href="https://www.linkedin.com/in/mariliagomes-/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
