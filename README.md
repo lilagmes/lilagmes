@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Marília
+# 🙋🏻‍♀️ Hello, I'm Marília
 
  Data Scientist | Florianópolis, Brazil
 
